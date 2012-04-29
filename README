@@ -1,0 +1,5 @@
+This is a simple perl plugin for ikiwiki to extract embedded YAML from mdwn files and then display them in a table.
+
+The markdown files must have the YAML and only the YAML between "# YAML" and "# ENDYAML" lines.
+
+You can still edit the markdown on the mdwn files - just make sure you don't accidentally change the YAML.
